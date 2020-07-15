@@ -1,6 +1,7 @@
 /.ipynb_checkpoints
 *.html
 *.tex
+*.pdf
 *-checkpoint.ipynb
 /modules/__pycache__
 /data
